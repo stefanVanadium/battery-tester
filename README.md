@@ -7,6 +7,11 @@
 
 A `1S–6S` battery capacity analyzer and cell sorter combining **4-wire `1 kHz` AC internal resistance** measurement (`YR1035+` style) with programmable **CC/CV charging (`BQ25756`)** and **linear CC discharging (`100 W`)** — built into the shared bench instrument enclosure family.
 
+<p align="center">
+  <img src="enclosure/out/hero_v0.1.png" alt="Concept render of the v0.1 enclosure, front and back" width="680">
+</p>
+<p align="center"><sub>Estimated v0.1 concept model (185 × 165 × 88 mm angled desktop shell, 3.5" IPS TFT, Kelvin jacks, XT60 + JST-XH 7P). Not final.</sub></p>
+
 ## Highlights
 
 - **1S–6S Li-ion / LiFePO4 / LTO** (`0.5–26 V`): tests single `18650`/`21700` cells and full multi-cell packs (`XT60` + `JST-XH` balance port + Kelvin clips)
